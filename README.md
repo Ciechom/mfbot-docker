@@ -12,7 +12,7 @@ This project uses:
 - Docker (duh.)
 
 ## To Use
-- docker run -it -v /PATH-ON-YOUR-HOST-WITH-Acc.ini/:/mfbot/ kukielka/mfbot
+- docker run -it -v /PATH-ON-YOUR-HOST-WITH-Acc.ini/:/mfbot/ ciechom/mfbot
 
 ## Configure Acc.ini
 - Use the mfbot desktop application to create your Acc.ini initially
