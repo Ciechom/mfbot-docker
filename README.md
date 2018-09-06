@@ -7,7 +7,7 @@ The Bot itself is auto-updating and always installs the newest Version upon init
 
 This project uses:
 - MagicalFidget-Bot
-- Ubuntu
+- Raspbian
 - Mono-Runtime
 - Docker (duh.)
 
